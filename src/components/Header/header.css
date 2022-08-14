@@ -1,0 +1,13 @@
+.header-list {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+}
+.header {
+  display: flex;
+  justify-content: space-evenly;
+}
+.header-list-tem {
+  list-style: none;
+  text-decoration: none;
+}
